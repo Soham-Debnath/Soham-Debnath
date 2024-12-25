@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Soham and I'm a Full-stack web developer, App developer, Python programmer and a video editor. Currently I'm studying DSA in C++ and Node.js .</h2>
+<h2 align="left">Hi 👋! My name is Soham and I'm a Full-stack web developer, App developer, Python programmer and a video editor. Currently I'm studying Node.js and DSA in C++ .</h2>
 
 ###
 
@@ -7,9 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Debnath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://sl.bing.net/kCdEBSke3si"  />
 
 ###
 
@@ -70,10 +67,6 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Soham-Debnath/Soham-Debnath/output/snake.svg" alt="Snake animation" />
 
 ###
