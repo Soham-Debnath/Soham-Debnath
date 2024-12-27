@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">👨🏻‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm studying from Assam(Central) University.<br><br>😄 I'm  a passionate Full stack developer with a knack for App development, Python programming, and Video editing. I thrive on turning ideas into reality through code and creativity.<br><br>🌱 Currently, I'm diving into Node.js and honing my skills in data structures and algorithms using C++. I believe that continuous learning is the key to success in the ever-evolving tech landscape.<br><br>💻 I'm also working on my personal blog, where I share insights from my coding journey, tutorials, and projects that inspire me. I aim to create a space where fellow developers can learn and grow together.<br><br>✨ My mission is to leverage technology to solve real-world problems and make a positive impact. I'm always open to collaboration and new opportunities, so feel free to reach out!<br><br>Let's connect and code something amazing together!</p>
+<p align="left">I'm studying in Assam(Central) University.<br><br>😄 I'm  a passionate Full stack developer with a knack for App development, Python programming, and Video editing. I thrive on turning ideas into reality through code and creativity.<br><br>🌱 Currently, I'm diving into Node.js and honing my skills in data structures and algorithms using C++. I believe that continuous learning is the key to success in the ever-evolving tech landscape.<br><br>💻 I'm also working on my personal blog, where I share insights from my coding journey, tutorials, and projects that inspire me. I aim to create a space where fellow developers can learn and grow together.<br><br>✨ My mission is to leverage technology to solve real-world problems and make a positive impact. I'm always open to collaboration and new opportunities, so feel free to reach out!<br><br>Let's connect and code something amazing together!</p>
 
 ###
 
@@ -79,7 +79,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Soham-Debnath&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soham-Debnath&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Soham-Debnath&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
