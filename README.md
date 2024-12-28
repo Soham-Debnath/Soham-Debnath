@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Full Stack Developer | Python, Node.js, C++ Learner |      <br>App Development | Video Editing Aficionado | Lifelong Learner</h2>
+<h2 align="center">Full Stack Developer | Python, Node.js, C++ Learner |    <br>App Development | Video Editing Aficionado | Lifelong Learner</h2>
 
 ###
 
