@@ -30,11 +30,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">👋 Hi there! I'm Soham Debnath, a passionate Full stack developer with a knack for App development, Python programming, and Video editing. I thrive on turning ideas into reality through code and creativity.<br><br>🌱 Currently, I'm diving into Node.js and honing my skills in data structures and algorithms using C++. I believe that continuous learning is the key to success in the ever-evolving tech landscape.<br><br>💻 I'm also working on my personal blog, where I share insights from my coding journey, tutorials, and projects that inspire me. I aim to create a space where fellow developers can learn and grow together.<br><br>✨ My mission is to leverage technology to solve real-world problems and make a positive impact. I'm always open to collaboration and new opportunities, so feel free to reach out!<br><br>Let's connect and code something amazing together!</p>
 
 ###
 
-<p align="left">👋 Hi there! I'm Soham Debnath, a passionate Full stack developer with a knack for App development, Python programming, and Video editing. I thrive on turning ideas into reality through code and creativity.<br><br>🌱 Currently, I'm diving into Node.js and honing my skills in data structures and algorithms using C++. I believe that continuous learning is the key to success in the ever-evolving tech landscape.<br><br>💻 I'm also working on my personal blog, where I share insights from my coding journey, tutorials, and projects that inspire me. I aim to create a space where fellow developers can learn and grow together.<br><br>✨ My mission is to leverage technology to solve real-world problems and make a positive impact. I'm always open to collaboration and new opportunities, so feel free to reach out!<br><br>Let's connect and code something amazing together!</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
